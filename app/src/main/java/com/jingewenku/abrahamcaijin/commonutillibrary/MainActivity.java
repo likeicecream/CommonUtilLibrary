@@ -10,7 +10,7 @@ import com.jingewenku.abrahamcaijin.commonutil.AppToastMgr;
 
 public class MainActivity extends AppCompatActivity {
     private TextView txtShow;
-
+    //My First commit
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
